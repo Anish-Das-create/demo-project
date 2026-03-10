@@ -1,3 +1,3 @@
 # demo-project
 This is my first repository
-Author - Anish Das
+Author - Anish Das (King)
